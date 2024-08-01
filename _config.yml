@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Lv Tao / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Lv Tao"
-description              : &description "a first year postgraduate from Shenzhen University"
+description              : &description "a first-year master's student from Shenzhen University"
 url                      : https://lvtao65535.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lvtao65535/lvtao65535.github.io"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Lv Tao"
   pronouns         : # example: "she/her"  
-  bio              : "My bio!"
-  location         : "Neptune"
+  bio              : "A master's student from Shenzhen University."
+  location         : "Guangdong Province, China"
   employer         : "Shenzhen University"
   uri              : # URL
   email            : "320011227@qq.com" 
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
    # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
