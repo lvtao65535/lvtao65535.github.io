@@ -9,7 +9,8 @@ redirect_from:
 
 <!-- About me
 ====== -->
-My name is Van, I'm an artist...
+I am a first-year graduate student from Shenzhen University. 
+My research interests include: edge AI, optimization for machine learning, video streaming.
 
 
 <!-- 
