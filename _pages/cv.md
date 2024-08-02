@@ -9,9 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION BACKGROUND
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+<div style="display: flex;">
+  <div style="flex: 1; text-align: left;"> <h4>2024.09 - present</h4></div>
+  <div style="flex: 1; text-align: right;"> <h4>Shenzhen University</h4></div>
+</div>
+
+
+
+<h5> Currently pursuing a M.E. in Computer Technology, GUANGMING LABORATORY</h5>
+<h5> <li> Advisor: Laizhong Cui</li> </h5>
+
+
+<div style="display: flex;">
+  <div style="flex: 1; text-align: left;"> <h4>2020.09 - 2024.06</h4></div>
+  <div style="flex: 1; text-align: right;"> <h4>South China University of Technology</h4></div>
+</div>
+
+<h5> B.E. in Intelligence Science and Technology, School of Automation Science and Engineering </h5>
+<!-- <h5> <li>Relevant coursework: Pattern Recognition, Machine Learning, C++ Programming</li></h5> -->
+
+
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
@@ -30,16 +51,24 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
+SKILLS AND INTERESTS
 ======
-* Skill 1
+
+* Programming
+  * C++, Python, Matlab
+* English
+  * CET-4 610, CET-6 586
+* Interests
+  * edge AI, video streaming, oprimization for machine learning
+
+<!-- * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -47,7 +76,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +90,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
