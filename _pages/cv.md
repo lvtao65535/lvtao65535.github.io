@@ -13,22 +13,24 @@ EDUCATION BACKGROUND
 ======
 
 <div style="display: flex;">
-  <div style="flex: 1; text-align: left;"> <h4>2024.09 - present</h4></div>
-  <div style="flex: 1; text-align: right;"> <h4>Shenzhen University</h4></div>
+  <div style="flex: 1; text-align: left;"> 2024.09 - present</div>
+  <div style="flex: 1; text-align: right;"> Shenzhen University</div>
 </div>
 
 
 
-<h5> Currently pursuing a M.E. in Computer Technology, GUANGMING LABORATORY</h5>
-<h5> <li> Advisor: Laizhong Cui</li> </h5>
+ Currently pursuing a M.E. in Computer Technology, GUANGMING LABORATORY.
+ Advisor: Laizhong Cui</li> 
 
+<!-- *** -->
+<br>
 
 <div style="display: flex;">
-  <div style="flex: 1; text-align: left;"> <h4>2020.09 - 2024.06</h4></div>
-  <div style="flex: 1; text-align: right;"> <h4>South China University of Technology</h4></div>
+  <div style="flex: 1; text-align: left;"> 2020.09 - 2024.06</div>
+  <div style="flex: 1; text-align: right;"> South China University of Technology</div>
 </div>
 
-<h5> B.E. in Intelligence Science and Technology, School of Automation Science and Engineering </h5>
+B.E. in Intelligence Science and Technology, School of Automation Science and Engineering.
 <!-- <h5> <li>Relevant coursework: Pattern Recognition, Machine Learning, C++ Programming</li></h5> -->
 
 
@@ -53,15 +55,19 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
+<br>
+
 SKILLS AND INTERESTS
 ======
 
-* Programming
-  * C++, Python, Matlab
-* English
-  * CET-4 610, CET-6 586
-* Interests
-  * edge AI, video streaming, oprimization for machine learning
+Programming
+* C++, Python, Matlab
+
+English
+* CET-4 610; CET-6 586
+
+Interests
+* edge AI, video streaming, oprimization for machine learning
 
 <!-- * Skill 1
 * Skill 2
