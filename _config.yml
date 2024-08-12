@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lv Tao / Personal Homepage"
+title                    : "Tao Lv / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Lv Tao"
+name                     : &name "Tao Lv"
 description              : &description "a first-year master's student from Shenzhen University"
 url                      : https://lvtao65535.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

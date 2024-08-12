@@ -20,7 +20,8 @@ EDUCATION BACKGROUND
 
 
  Currently pursuing a M.E. in Computer Technology, GUANGMING LABORATORY.
- Advisor: Laizhong Cui</li> 
+
+ Supervisor(s): [Dr. Qihua Zhou](https://csse.szu.edu.cn/pages/user/index?id=1309), [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/eng/index.html)
 
 <!-- *** -->
 <br>
@@ -76,11 +77,11 @@ Interests
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
